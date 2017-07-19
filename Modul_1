@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-  	<meta charset="UTF-8">
-  	<title>Homework1</title>
-  	<style>
-  		.Yatagarasu_img{text-align:center;}
-  		.text1{color:red;}
-  	</style>
+<head>
+	<meta charset="UTF-8">
+	<title>Homework1</title>
+	<style>
+		.Yatagarasu_img{text-align:center;}
+		.text1{color:red;}
+	</style>
 </head>
 <body>
 	<div>		
@@ -51,7 +51,8 @@
 				<small>					
 					(left left ride ride up down left up.)	
 				</small>
-			</span>			
+			</span>
+			
 		</p>
 	</div>
 	<hr>
@@ -60,15 +61,18 @@
 			formuls:
 		</h2>
 		<p>
-			ψ=φ*ξ;
+			&#968; = &#966; &#215; &#958;
 		</p>
 	</div>
 	<div>
 		<p>
-			ξ <sup> 1 </sup> + ψ <sup> 3 </sup> = Σ <sub> 2 </sub> + Ω <sub> 4 </sub>
+			&#958; <sup> 1 </sup> + &#968; <sup>3</sup> = &#931;
+			 <sub>2</sub> + &#937; <sub>4</sub> 
 		</p>
 		<p>
-			x <sub> 1 </sub> + x <sub> 2 </sub> = - p;	
+			<i>
+				x <sub>1</sub>+x <sub>2</sub>=-p;	
+			</i>
 		</p>
 	</div>
 	<hr>	
@@ -78,9 +82,7 @@
 		</p>
 
 		<a href="http://yandex.ua" target="_blank">
-			<s> 
-        yandex.ua 
-      </s>
+			<s> yandex.ua  </s>
 		</a>
 
 		<a href="http://www.president.gov.ua/documents/1332017-21850" target="_blank">
@@ -124,6 +126,9 @@
 			2017 &#169; Copyring
 		</p>
 	</div>
+
+
+	
 
 </body>
 </html>
