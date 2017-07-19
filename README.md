@@ -1,2 +1,2 @@
 # Homework
-homework to modu_1
+homework to modul_1
